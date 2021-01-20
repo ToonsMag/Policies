@@ -1,4 +1,4 @@
-Toons Mag Rules
+# Toons Mag Rules
 
 Toons Mag exists to share ideas and perspectives from the world’s most insightful cartoonists and storytellers.
 
@@ -10,11 +10,11 @@ In deciding whether someone has violated the rules, we will take into account th
 
 Violations of our rules may result in consequences such as account restrictions, limited distribution of your posts, and suspension of your account. We may limit the distribution of controversial or extreme content.
 
-Threats of violence and incitement
+# Threats of violence and incitement
 
 We do not allow content or actions that threaten, encourage, or incite violence against anyone, directly or indirectly.
 
-Hate speech
+# Hate speech
 
 We do not allow content that promotes violence or hatred against people based on characteristics like race, ethnicity, national origin, religion, disability, disease, age, sexual orientation, gender, or gender identity.
 
@@ -22,7 +22,7 @@ We do not allow posts or accounts that glorify, celebrate, downplay, or triviali
 
 We do not allow hateful text, images, symbols, or other content in your username, profile, or bio.
 
-Harassment
+# Harassment
 
 Toons Mag exists to share, cartoons, comics, caricatures, articles, opinion and discuss ideas. We don’t tolerate harassment, which includes:
 
@@ -31,7 +31,7 @@ Using Toons Mag features like responses, private notes, mentions, follows in a w
 Reviewing businesses or products in a gratuitously harmful or abusive manner
 Privacy and Reputation
 
-We do not allow the following:
+# We do not allow the following:
 
 Posting copies of private communications between private individuals without the explicit consent of all parties to the communication
 Doxing, which includes not only private or obscure personal information but also the aggregation of publicly available information to target, shame, blackmail, harass, intimidate, threaten, or endanger
@@ -50,11 +50,11 @@ Related conduct
 
 We do not allow posts or accounts that engage in on-platform, off-platform, or cross-platform campaigns of targeting, harassment, hate speech, violence, or disinformation. We may consider off-platform actions in assessing a Toons Mag account and restrict access or availability to that account.
 
-Duplicate Content
+# Duplicate Content
 
 We do not allow posting duplicate content, whether from a single account or across multiple accounts, either publicly or as an unlisted story.
 
-Spam
+# Spam
 
 We do not allow spam on Toons Mag. All spam will be immediately removed from Toons Mag, without notification. While it is hard to define this content with precision or completeness, here are some representative behaviors we look for that are characteristic of spam:
 
@@ -69,7 +69,7 @@ Use or re-use content templates with slight modifications across multiple posts 
 
 For each of these behaviors, when we talk about “content,” we mean not only posts but also any other feature that allows you to add your own text or media. When we talk about “interactions,” we mean any feature that allows one user to interact with another, or with a post.
 
-Paid, automatic, bulk, or non-genuine interactions
+# Paid, automatic, bulk, or non-genuine interactions
 
 Toons Mag depends on various user behaviors — like follows and claps — to determine what content to feature and make the site work well for everyone. So, we don’t allow artificial behaviors that skew this system and as a result, degrade or distort other users’ experiences. This includes:
 
@@ -80,7 +80,7 @@ Copyright and trademark infringement
 
 Respect the copyrights and trademarks of others. Unless you’re authorized to use someone else’s copyrighted work or trademark (either expressly or by legal exceptions and limitations like fair use), don’t do it. We respond to notices of alleged infringement as described in our Terms of Service, Copyright and DMCA Policy.
 
-Deceptive conduct
+# Deceptive conduct
 
 We do not allow deceptive conduct on Toons Mag. This includes:
 
@@ -102,14 +102,14 @@ Cryptocurrency Accounts, Posts, and Publications
 
 Posts and accounts that focus on cryptocurrencies which do not meet the following requirements may be considered spam and are subject to suspension, depending on the context. The Toons Mag does not endorse or verify any coin, token, or similar announcement.
 
-To prevent fraud and abuse, you must:
+# To prevent fraud and abuse, you must:
 
 Include a link to your active project domain in your user account bio.
 Use an email address from that domain as your verified Toons Mag account email, and maintain that email account actively.
 Link at least one consistently-branded social media account (Facebook or Twitter) to your Toons Mag account. That social account should also link out prominently to the same domain as is included in your Toons Mag user bio.
 Include a prominent about page with up-to-date contact information on your project website.
 
-You may not:
+# You may not:
 
 Use an anonymous email address that is not linked to your project domain. (e.g., Gmail, Protonmail, mail.ru, etc.)
 Advertise or participate in bounty campaigns, pumps, and dumps, reviewing for reward, or other forms of brigading or inauthentic activity.
@@ -137,11 +137,11 @@ If you break the rules
 
 We strive to be fair, but we reserve the right to suspend accounts or remove content, without notice, for any reason, particularly to protect our services, infrastructure, users, or community. If you attempt to evade suspension by creating new accounts or posts, we will suspend your new accounts and posts.
 
-Notice
+# Notice
 
 Upon investigating or disabling content associated with your account, we will notify you, unless we believe your account is automated or operating in bad faith, or that notifying you is likely to cause, maintain or exacerbate harm to someone.
 
-Appeals
+# Appeals
 
 If you believe your content or account has been restricted or disabled in error, or believe there is the relevant context we were not aware of in reaching our determination, you can write to us at support@toonsmag.com. We will consider all good faith efforts to appeal.
 
@@ -155,7 +155,7 @@ We also may change these rules at any time. We track changes to our rules on Git
 
 Toons Mag is committed to providing a transparent, open platform for expression and therefore supports the goals and spirit of The Santa Clara Principles on Transparency and Accountability in Content Moderation as a starting point for further discussion.
 
-Member Content Guidelines
+# Member Content Guidelines
 
 To be eligible for inclusion and potential monetization from member-only content, user posts must meet all Toons Mag rules as well as the following content requirements. We’ve set these additional guidelines for member-only stories to create a fair environment for writers in our Partner Program and a richer reading experience for members.
 
@@ -168,7 +168,7 @@ If you violate these Member content rules
 
 Toons Mag reserves the right to review posts or accounts at any time and stop payment for any post or to any account, and/or remove from the Member section content that violates these Member Content Guidelines, or Toons Mag’s general rules. In deciding whether something has violated the Rules and Guidelines, we will take into account things like the context, newsworthiness, and nature of the posted information and applicable privacy laws. Repeated violations of the Rules and Requirements will result in permanent ineligibility to participate in the program.
 
-How to report a Member post violation
+# How to report a Member post violation
 
 If you find a member post or account on Toons Mag that violates these rules, please report it. You can use this form to provide more detail or to report other conduct you believe violates our rules.
 

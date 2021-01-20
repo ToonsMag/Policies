@@ -114,13 +114,13 @@ Include a prominent about page with up-to-date contact information on your proje
 Use an anonymous email address that is not linked to your project domain. (e.g., Gmail, Protonmail, mail.ru, etc.)
 Advertise or participate in bounty campaigns, pumps, and dumps, reviewing for reward, or other forms of brigading or inauthentic activity.
 Include shortened URLs in your posts.
-Graphic content
+# Graphic content
 
 We do not allow pornographic images or videos. We do allow erotic writing and non-graphic erotic images.
 
 We do not allow gratuitously graphic or disturbing media, even if it’s not pornographic.
 
-Exploitation of minors
+# Exploitation of minors
 
 We do not allow content promoting the sexual or violent exploitation of minors, including the sexualization of fictional minors.
 
@@ -128,12 +128,12 @@ Promotion and glorification of self-harm
 
 We do not allow activities that encourage, promote or glorify acts of self-harm, such as cutting, eating disorders like anorexia or bulimia, and suicide. If you encounter users contemplating or threatening self-harm, please report it to us via the form or email address linked below.
 
-How to report a violation
+# How to report a violation
 
 
 If you find a post or account on Toons Mag that violates these rules, please report it. You can use this form to provide more detail or to report other conduct you believe violates our rules. Additionally, you can send us an email to support@toonsmag.com.
 
-If you break the rules
+# If you break the rules
 
 We strive to be fair, but we reserve the right to suspend accounts or remove content, without notice, for any reason, particularly to protect our services, infrastructure, users, or community. If you attempt to evade suspension by creating new accounts or posts, we will suspend your new accounts and posts.
 
@@ -145,7 +145,7 @@ Upon investigating or disabling content associated with your account, we will no
 
 If you believe your content or account has been restricted or disabled in error, or believe there is the relevant context we were not aware of in reaching our determination, you can write to us at support@toonsmag.com. We will consider all good faith efforts to appeal.
 
-Government Takedown Requests
+# Government Takedown Requests
 
 If Toons Mag receives a request from a government actor to restrict access to content associated with your account, we will notify you unless we are prohibited by law or believe doing so may endanger others. Where applicable, we will work to limit legally-ordered content restrictions to jurisdictions where we have a good faith belief that we are legally required to restrict the content. Toons Mag submits to the Lumen database government requests to restrict access to content (redacted where appropriate to protect privacy or prevent harm to a person).
 
